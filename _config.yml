@@ -117,4 +117,4 @@ plugins: [jekyll-paginate, jekyll-seo-tag]
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json"
 , "node_modules", "gulpfile.js", ".idea/*"]
 
-remote_theme: Type on Strap
+remote_theme: Type-on-Strap
